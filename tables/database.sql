@@ -29,7 +29,7 @@ CREATE TABLE messages (
   message VARCHAR(1000)
 );
 
-
+--episode 1
 INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #1', 'April 24, 2020', 'Welcome to the first Earth Nights playlist!', 'https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/the-psychedelic-revolution-in-psychiatry-333007.jpg');
 
 
