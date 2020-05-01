@@ -99,7 +99,7 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Don''t Turn Around', 'Henry Threadgill & Make a Move', 'https://dl.dropbox.com/s/jmzqvl7vp6pl2tv/threadgill%20don%27t.wav', 'https://dl.dropbox.com/s/qho6h4we62tr6ho/everybodys%20mouths.jpg', '', '#46718b', 'Everybodys Mouth''s a Book (2001)', null, null, null, null
 );
 
-INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, '21st Century Schizoid Man', 'King Crimson', 'https://dl.dropbox.com/s/ub7l2q3u12fd677/01%2021st%20Century%20Schizoid%20Man%20Including%20Mirrors.aif', 'https://dl.dropbox.com/s/70pzobxv7fdqjy5/kingcrim.jpeg', '', '#46718b', 'In the Court of the Crimson King (1969)', null, null, null, null
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, '21st Century Schizoid Man', 'King Crimson', 'https://dl.dropbox.com/s/4h65srw119up68v/01%2021st%20Century%20Schizoid%20Man%20Including%20Mirrors.wav', 'https://dl.dropbox.com/s/70pzobxv7fdqjy5/kingcrim.jpeg', '', '#46718b', 'In the Court of the Crimson King (1969)', null, null, null, null
 );
 
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Inca Roads', 'Frank Zappa and the Mothers of Invention', 'https://dl.dropbox.com/s/1pvdwemy8glnaw6/01%20Inca%20Roads.m4a', 'https://dl.dropbox.com/s/5ohd9u4qe4hd1w7/zappa.jpg', '', '#46718b', 'One Size Fits All (1975)', null, null, null, null
