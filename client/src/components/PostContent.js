@@ -17,7 +17,7 @@ export default class PostContent extends Component {
 
   async componentDidMount() {
     const { id } = this.props.match.params;
-    const response = await fetch(`/episode/${id}/playlist`);
+    const response = await fetch(`/api/episode/${id}/playlist`);
     const jsonData = await response.json();
     const songs = jsonData;
     const audio = Object.keys(songs).map(key => {

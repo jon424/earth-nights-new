@@ -16,7 +16,7 @@ export default class Post extends Component {
   //proxy 
 
   async componentDidMount() {
-    const response = await fetch("/episode");
+    const response = await fetch("/api/episode");
     const jsonData = await response.json();
     this.setState({
       data: jsonData

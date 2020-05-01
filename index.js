@@ -32,7 +32,7 @@ console.log(path.join(__dirname, "client/build"));
 //routes
 
 //get all episodes
-app.get('/episode', async (req, res) => {
+app.get('/api/episode', async (req, res) => {
   try {
     const allEpisodes = await pool.query("SELECT * FROM card ORDER BY id DESC");
     res.json(allEpisodes.rows);
@@ -43,7 +43,7 @@ app.get('/episode', async (req, res) => {
 
 
 //select one episode
-app.get('/episode/:id', async (req, res) => {
+app.get('/api/episode/:id', async (req, res) => {
   try {
     const { id } = req.params;
     const episodeContent = await pool.query(
@@ -57,7 +57,7 @@ app.get('/episode/:id', async (req, res) => {
   }
 });
 
-app.get('/episode/:id/playlist', async (req, res) => {
+app.get('/api/episode/:id/playlist', async (req, res) => {
   try {
     const { id } = req.params;
     const episodeContent = await pool.query(
