@@ -32,10 +32,6 @@ CREATE TABLE messages (
 --episode 1
 INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #1', 'April 24, 2020', 'Welcome to the first Earth Nights playlist!', 'https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/the-psychedelic-revolution-in-psychiatry-333007.jpg');
 
-
-INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #2', 'April 27, 2020', 'Welcome to the second show!!', 'https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/can-psychedelic-drugs-heal-307439.jpg');
-
-
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (1, 'The Opera House', 'The Olivia Tremor Control', 'https://dl.dropbox.com/s/dhvancbcyoadfkn/The%20Opera%20House%20-%20OTC.wav', 'https://dl.dropbox.com/s/15yusr42dogvi0t/dusk_at_cubist_castle.jpg', '', '#46718b', 'Music From The Unrealized Film Script: Dusk At Cubist Castle', 'Welcome to The First Earth Nights Playlist!', 'We begin the series with a playlist full of great music to enjoy. There will (hopefully) be a new episode every week.', 'Thanks so much for listening... Stay safe out there.', 'Hope you enjoy...'
 );
 
@@ -95,9 +91,68 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 
 
 -- <div><p>This is THE SECOND episode...</p></div>'
+INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #2', 'May 1, 2020', 'Welcome to the second show!!', 'https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/can-psychedelic-drugs-heal-307439.jpg');
 
-INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'The First Song of Episode 2', 'The Peepz', 'https://dl.dropbox.com/s/os8v0ymru1433nn/2%20mix.wav', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIf0dTz1bIeqbJc1TO59ql7K6AdtbpN6_ZScVsR_heOen0Yaxw&usqp=CAU', '', '#46718b', 'Music From The Castle', 'Welcom to Episode Two!', 'This is today''s episode...', '...today is whenever you are currently listening...', '...Thanks so much for being here...'
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Third World Anthem', 'Jack DeJohnette''s Special Edition', 'https://dl.dropbox.com/s/nx95zak9bxew1bv/01%20Third%20World%20Anthem.mp3', 'https://dl.dropbox.com/s/2t944i9gv41fi8b/albumalbum.jpg', '', '#46718b', 'Album Album (1984)', 'We Are Back With Episode Two!', 'Thanks for being here - enjoy the music. If you happen to be listening on a mobile device, it might help to update your display settings to never let your device go to sleep, so the playlist can keep going without any clicking on your part. If you are listening on a desktop/laptop, you''re all good.', 'We kick things off right this week with the best Jack DeJohnette tune of ALL TIME, followed by some more far out jazz and prog-rock, before sliding into the psychedelic sounds of some great bands from the Elephant 6 Collective (Marbles, The Minders, of Montreal, and The Apples in Stereo). We have some excellent rap tracks from Houston (Devin The Dude, Scarface, Too Much Trouble) and Detroit (Boldy James, Isaac Castor). Then we got some vaporwave, followed by a powerful track by virtuoso drummer G. Calvin Weston (remember him from Ornette Coleman''s Prime Time band from the 80''s?), and a not-to-be-missed super slooowed down version of The Velvet Underground''s infamous one-take masterjam ''Sister Ray''', 'Click on the Contact button below and get in touch! Hope you enjoy. See you next week!'
 );
 
-INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'R', 'The Lips', 'https://dl.dropbox.com/s/os8v0ymru1433nn/2%20mix.wav', 'https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/can-psychedelic-drugs-heal-307439.jpg', '', '#46718b', 'Tin', null, null, null, null
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Don''t Turn Around', 'Henry Threadgill & Make a Move', 'https://dl.dropbox.com/s/jmzqvl7vp6pl2tv/threadgill%20don%27t.wav', 'https://dl.dropbox.com/s/qho6h4we62tr6ho/everybodys%20mouths.jpg', '', '#46718b', 'Everybodys Mouth''s a Book (2001)', null, null, null, null
 );
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, '21st Century Schizoid Man', 'King Crimson', 'https://dl.dropbox.com/s/ub7l2q3u12fd677/01%2021st%20Century%20Schizoid%20Man%20Including%20Mirrors.aif', 'https://dl.dropbox.com/s/70pzobxv7fdqjy5/kingcrim.jpeg', '', '#46718b', 'In the Court of the Crimson King (1969)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Inca Roads', 'Frank Zappa and the Mothers of Invention', 'https://dl.dropbox.com/s/1pvdwemy8glnaw6/01%20Inca%20Roads.m4a', 'https://dl.dropbox.com/s/5ohd9u4qe4hd1w7/zappa.jpg', '', '#46718b', 'One Size Fits All (1975)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Go Marilee', 'Marbles', 'https://dl.dropbox.com/s/mbk7pe8fe4wvwp2/marbles.wav', 'https://dl.dropbox.com/s/a1pb3hnbungiscm/marbles.jpg', '', '#46718b', 'Pyramid Landing (and Other Favorites) (1997)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Hooray For Tuesday', 'The Minders', 'https://dl.dropbox.com/s/kg9jkydl2tvrha7/minders.wav', 'https://dl.dropbox.com/s/r2vaga96rsd6boc/minders.jpg', '', '#46718b', 'Hooray for Tuesday (1998)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Gronlandic Edit', 'of Montreal', 'https://dl.dropbox.com/s/jv31dn6l46cu3fa/gronlandic%20edit.wav', 'https://dl.dropbox.com/s/3c4mltsraqv72py/hissing.png', '', '#46718b', 'Hissing Fauna, Are You the Destroyer? (2007)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Lucky Charm', 'The Apples in Stereo', 'https://dl.dropbox.com/s/sjpm98kao7cshx2/09%20Lucky%20Charm.m4a', 'https://dl.dropbox.com/s/uzmb4yka8vu64t2/funtrick.jpg', '', '#46718b', 'Fun Trick Noisemaker (1995)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Inside Your Mind', 'The Fool', 'https://dl.dropbox.com/s/4adaytvqeozumkn/09%20Inside%20You%20Mind.m4a', 'https://dl.dropbox.com/s/qqib3sqwgghel2y/fool.jpeg', '', '#46718b', 'The Fool (1968)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'After Midnight', 'The Jerry Garcia Band', 'https://dl.dropbox.com/s/q9x006p66w4fj6g/jerry-after%20midnight.wav', 'https://dl.dropbox.com/s/x5tqh269p1f11qv/jerrygarcia.jpg', '', '#46718b', 'After Midnight: Kean College, 2/28/80 (2004)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'All You Need', 'Devin The Dude', 'https://dl.dropbox.com/s/nxoda5yvbr52wq6/devin%20the%20dude.wav', 'https://dl.dropbox.com/s/esrdyvxq79sde2x/suite420.jpg', '', '#46718b', 'Suite 420 (2010)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'On My Block', 'Scarface', 'https://dl.dropbox.com/s/x4nx4t5qndntlld/on%20my%20block.wav', 'https://dl.dropbox.com/s/mq6npkvspmz5tjo/scarfacethefix.jpg', '', '#46718b', 'The Fix (2002)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Family', 'Too Much Trouble', 'https://dl.dropbox.com/s/irs6rbqxep9hjdf/toomuchtrouble.wav', 'https://dl.dropbox.com/s/fve11got9xmhhok/playerschoice.jpg', '', '#46718b', 'Player’s Choice (1993)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Pinto', 'Boldy James (with The Alchemist)', 'https://dl.dropbox.com/s/uxgwoif5ryhqwvm/pinto.wav', 'https://dl.dropbox.com/s/9ommzunq97zejgc/price%20of%20tea.jpg', '', '#46718b', 'The Price of Tea in China (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Rabbit Hole (99 Bottles) [feat. Foul Mouth]', 'Isaac Castor', 'https://dl.dropbox.com/s/v1gkox073t3najx/rabbit%20hole.wav', 'https://dl.dropbox.com/s/uc6p1jvq2mo39oo/rabbit%20hole%20isaac.jpg', '', '#46718b', 'The Rabbit Hole (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Resonance', 'Home', 'https://dl.dropbox.com/s/94o1iosfiqfqjyt/Home%20-%20Resonance.wav', 'https://dl.dropbox.com/s/rrs6m7ufpikh9ou/home%20odyssey.jpg', '', '#46718b', 'Odyssey (2014)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Good Time', 'Runners Club 95', 'https://dl.dropbox.com/s/j31g7totms4p9c1/runners%20club%2095.wav', 'https://dl.dropbox.com/s/6zs3ylya5d67zwx/no%20sugar%20added.jpg', '', '#46718b', 'No Sugar Added (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'lay down / private caller', 'Bl00dwave', 'https://dl.dropbox.com/s/tepnxbvqz6lys5z/bl00dwave.wav', 'https://dl.dropbox.com/s/rtg0losppi16lnd/hotel%20vibes.jpg', '', '#46718b', 'Hotel Vibes (2019)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Better', 'Saint Pepsi', 'https://dl.dropbox.com/s/6zzst24wjgebens/saint%20pepsi.wav', 'https://dl.dropbox.com/s/5flhczdhzzwjjnd/hit%20vibes.jpg', '', '#46718b', 'Hit Vibes (2013)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Endurance', 'G. Calvin Weston (feat. The Pheonix Orchestra)', 'https://dl.dropbox.com/s/kis1uaqfjek2rt5/g%20calvin%20weston.wav', 'https://dl.dropbox.com/s/m91dlddwkqhq3ng/g%20calvin%20dust%20an%20dash.jpg', '', '#46718b', 'Dust and Ash (2019)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Sister Ray (SSLLOOWWEEDD DDOOWWNN)', 'The Velvet Underground', 'https://dl.dropbox.com/s/c0bpyerfv0ra9js/Sister%20Ray%20%28CHOPPED-N-SCREWED%29.wav', 'https://dl.dropbox.com/s/oldrvrvrr0m99xi/whitelightwhiteheat.jpg', '', '#46718b', 'White Light/White Heat (1968)', null, null, null, null
+);
+
