@@ -156,3 +156,4 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Sister Ray (SSLLOOWWEEDD DDOOWWNN)', 'The Velvet Underground', 'https://dl.dropbox.com/s/c0bpyerfv0ra9js/Sister%20Ray%20%28CHOPPED-N-SCREWED%29.wav', 'https://dl.dropbox.com/s/oldrvrvrr0m99xi/whitelightwhiteheat.jpg', '', '#46718b', 'White Light/White Heat (1968)', null, null, null, null
 );
 
+--episode 3...
