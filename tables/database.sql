@@ -222,5 +222,5 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'East Side Boogie', 'Ryo Kawasaki', 'https://dl.dropbox.com/s/7495cms51q2wdx5/ryo.wav', 'https://dl.dropbox.com/s/7rjjgg6qduze1mh/ryo.jpeg', '', '#46718b', 'Juice (1976)', null, null, null, null
 );
 
---episode 4...
+--episode 4
 
