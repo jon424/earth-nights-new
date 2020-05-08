@@ -157,7 +157,7 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 );
 
 
---episode 3...
+--episode 3
 
 -- <div><p>This is THE SECOND episode...</p></div>'
 INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #3', 'May 8, 2020', 'You have arrived at Episode 3', 'https://dl.dropbox.com/s/i557y8rv4bgxhsx/sike.jpg');
