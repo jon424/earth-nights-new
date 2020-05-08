@@ -156,3 +156,70 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (2, 'Sister Ray (SSLLOOWWEEDD DDOOWWNN)', 'The Velvet Underground', 'https://dl.dropbox.com/s/c0bpyerfv0ra9js/Sister%20Ray%20%28CHOPPED-N-SCREWED%29.wav', 'https://dl.dropbox.com/s/oldrvrvrr0m99xi/whitelightwhiteheat.jpg', '', '#46718b', 'White Light/White Heat (1968)', null, null, null, null
 );
 
+
+--episode 3
+
+-- <div><p>This is THE SECOND episode...</p></div>'
+INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #3', 'May 8, 2020', 'You have arrived at Episode 3', 'https://dl.dropbox.com/s/xw3a56417zyyx9t/sike.jpeg');
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Age of the Sun', 'The Sunshine Fix', 'https://dl.dropbox.com/s/pct7eh7nnz042pe/age%20of%20sun.wav', 'https://dl.dropbox.com/s/kmb8z9lif4lbvw5/age%20of%20the%20sun.jpeg', '', '#46718b', 'Age of the Sun (2002)', 'Earth Nights Playlist #3', 'Thanks for being here - enjoy the music. NOTE: If you happen to be listening on a mobile device, it might help to update your display settings to never let your device go to sleep, so the playlist can keep going without any clicking on your part. If you are listening on a desktop/laptop, you''re all good.', 'This week we have a good mix of... ', 'Click on the Contact button below and get in touch! Stay safe during these weird pandemic times. See you next week!'
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'The Late Great Cassiopia', 'The Essex Green', 'https://dl.dropbox.com/s/39ipmhif8zc6gnh/essex.wav', 'https://dl.dropbox.com/s/cd76cbbtehr37hi/essex%20green.jpeg', '', '#46718b', 'The Long Goodbye (2003)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Robert Montgomery', 'Love', 'https://dl.dropbox.com/s/8cjlwawgonz3kjf/love%20rob%20mont.wav', 'https://dl.dropbox.com/s/v0wnt9qrrvd3cqv/LoveFourSail700.jpg', '', '#46718b', 'Four Sail (1969)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Oh I Wept', 'Free', 'https://dl.dropbox.com/s/s9je5rxc17q6e24/free%20oh%20i%20wept.wav', 'https://dl.dropbox.com/s/641blrsl8eid6r4/freee.jpeg', '', '#46718b', 'Fire and Water (1970)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'A Rainbow in Curved Air', 'Terry Riley', 'https://dl.dropbox.com/s/js89mmf4f0ffjel/terry%20riley.wav', 'https://dl.dropbox.com/s/0ppyke1dgvq5foq/terry%20riley.jpeg', '', '#46718b', 'A Rainbow in Curved Air (1969)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Love Is Everywhere', 'Pharoah Sanders', 'https://dl.dropbox.com/s/1curg0t3oq5q5b2/sanders%20love%20is.wav', 'https://dl.dropbox.com/s/ga9niuwtnwq0zh0/sanders%20love%20is.jpeg', '', '#46718b', 'Wisdom Through Music (1973)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Mother Sky', 'Can', 'https://dl.dropbox.com/s/8e8nddbrtyc61lf/can%20mother%20sky.wav', 'https://dl.dropbox.com/s/0dea83bpb4u8938/can%20soundtracks.jpeg', '', '#46718b', 'Soundtracks (1970)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Shadows', 'Alien Mustangs', 'https://dl.dropbox.com/s/jxkatuvotfbiyf0/alien%20mustangs.wav', 'https://dl.dropbox.com/s/0a0xaq0vrcccjl8/alien%20mustangs.jpeg', '', '#46718b', 'Shadows (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'The Power of Suggestion', 'Paul Demarinis', 'https://dl.dropbox.com/s/x0jon539o86nvpf/07%20The%20Power%20of%20Suggestion.m4a', 'https://dl.dropbox.com/s/8397cutcyz7fbl1/demarinis.jpeg', '', '#46718b', 'Music as a Second Language (1991)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Building', 'Philip Glass', 'https://dl.dropbox.com/s/t10f1zi6s7jw90u/3-03%20Building.m4a', 'https://dl.dropbox.com/s/bsd3yduava98ba0/einstein.jpeg', '', '#46718b', 'Einstein on the Beach (1996)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Iridescent Sounds', 'Mark Fox', 'https://dl.dropbox.com/s/9yivayj9pxgif04/mark%20fox.wav', 'https://dl.dropbox.com/s/4euip5j6db7r5nn/mark%20fox.jpeg', '', '#46718b', 'Iridescent Sounds (2019)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Space Spiritual', 'The Nat Adderley Sextet and Rick Holmes', 'https://dl.dropbox.com/s/jezih6g0c5y8te7/space%20spiritual.wav', 'https://dl.dropbox.com/s/yl141es2y57km9n/adderley.jpeg', '', '#46718b', 'Soul of the Bible (1972)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Hustler', 'Tony Allen & Africa 70', 'https://dl.dropbox.com/s/45qho7vaa41s2zb/hustler.wav', 'https://dl.dropbox.com/s/xug9pxht1uwk7wy/tony%20allen.jpeg', '', '#46718b', 'Jealousy / Progress (1999)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Newport', 'Sandy H', 'https://dl.dropbox.com/s/4w7xgyqpflgjcy6/sandy%20h.wav', 'https://dl.dropbox.com/s/pw5hzpnqs88s0ck/sandy%20h.jpeg', '', '#46718b', 'New Horizon (2017)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Golden Triangle', 'Windows 96', 'https://dl.dropbox.com/s/7ysgz842bn84iwa/windows%2096.wav', 'https://dl.dropbox.com/s/f6ys6a6i2ejvedq/windows96.jpeg', '', '#46718b', 'Enchanted Instrumentals and Whispers (2019)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'Virtual World Generator', '猫 シ Corp.', 'https://dl.dropbox.com/s/9maolwqf5ipvixw/corps.wav', 'https://dl.dropbox.com/s/4nv6p23pe1lf7ss/palm%20mall%20mars.jpeg', '', '#46718b', 'Palm Mall Mars (2018)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'gra3dead', 'Haircuts For Men', 'https://dl.dropbox.com/s/hvhiwoowlgk3req/haircuts.wav', 'https://dl.dropbox.com/s/v9r4w8hiz7hvaky/haircuts.jpg', '', '#46718b', 'MIDI JAMS v2 (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, '1, 2, the 3', 'Geto Boys', 'https://dl.dropbox.com/s/xjxjxg2oyei2p3f/geto%20boys.wav', 'https://dl.dropbox.com/s/xrv2na7yo5zl3r8/geto%20boys.jpeg', '', '#46718b', 'The Foundation (2005)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'High Ceiling', 'Nametag Alexander', 'https://dl.dropbox.com/s/iorvkv9im1wk7pa/nametag.wav', 'https://dl.dropbox.com/s/mxk4g5m2t8eb00n/nametag.jpeg', '', '#46718b', 'Work. Win. Repeat. The EP (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (3, 'East Side Boogie', 'Ryo Kawasaki', 'https://dl.dropbox.com/s/7495cms51q2wdx5/ryo.wav', 'https://dl.dropbox.com/s/7rjjgg6qduze1mh/ryo.jpeg', '', '#46718b', 'Juice (1976)', null, null, null, null
+);
+
+
