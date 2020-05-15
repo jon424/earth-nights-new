@@ -223,7 +223,7 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 );
 
 --episode 4
-INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #4', 'May 15, 2020', '“You are the universe experiencing itself.” - Alan Watts', 'https://dl.dropbox.com/s/2ce59hx3cjgccl8/sike4.jpg');
+INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #4', 'May 15, 2020', '_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/\_/', 'https://dl.dropbox.com/s/2ce59hx3cjgccl8/sike4.jpg');
 
 INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 'Everyone Thinks I''m a Raincloud (When I''m Not Looking)', 'Guided by Voices', 'https://dl.dropbox.com/s/m6luj95oij0nmd7/gbv.wav', 'https://dl.dropbox.com/s/aincbgymhvuywiw/gbvhalfsmiles.jpg', '', '#46718b', 'Half Smiles of the Decomposed (2004)', 'Earth Nights Playlist #4', 'Welcome back to the Earth Nights playlist. Hope you enjoy this week''s musical selections. Remember, if you are listening on a mobile device, it might help to update your display settings to need let your device go to sleep, so the playlist can keep going without any clicking on your part. Laptop/Desktop users - you''re fine. Maybe we''ll make a mobile version someday…', 'How is everyone doing? Hopefully this music can help you relax and shift your focus away from the uncertainty of daily life we find ourselves in. Click on the Contact button below and drop a message.', 'See you next week…'
 );
