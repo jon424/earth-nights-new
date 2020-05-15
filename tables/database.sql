@@ -223,4 +223,183 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 );
 
 --episode 4
+INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #4', 'May 15, 2020', '“You are the universe experiencing itself.” - Alan Watts', 'https://dl.dropbox.com/s/2ce59hx3cjgccl8/sike4.jpg');
 
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 'Everyone Thinks I''m a Raincloud (When I''m Not Looking)', 'Guided by Voices', 'https://dl.dropbox.com/s/m6luj95oij0nmd7/gbv.wav', 'https://dl.dropbox.com/s/aincbgymhvuywiw/gbvhalfsmiles.jpg', '', '#46718b', 'Half Smiles of the Decomposed (2004)', 'Earth Nights Playlist #4', 'Welcome back to the Earth Nights playlist. Hope you enjoy this week''s musical selections. Remember, if you are listening on a mobile device, it might help to update your display settings to need let your device go to sleep, so the playlist can keep going without any clicking on your part. Laptop/Desktop users - you''re fine. Maybe we''ll make a mobile version someday…', 'How is everyone doing? Hopefully this music can help you relax and shift your focus away from the uncertainty of daily life we find ourselves in. Click on the Contact button below and drop a message.', 'See you next week…'
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 'Everyone Is My Friend', 'Owls', 'https://dl.dropbox.com/s/fv9v6ajluf3a6zw/owls.wav', 'https://dl.dropbox.com/s/cc8dsqk4f24x6iv/owls.jpeg', '', '#46718b', 'Owls (2001)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'How To Say', 
+'Mamalarky', 
+'https://dl.dropbox.com/s/y5bstpuqffftutf/mamalarky.wav', 
+'https://dl.dropbox.com/s/oynrfjyuw6307am/mamalarky.jpg', '', 
+'#46718b', 
+'How To Say (Single) (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Falling In Love With Myself Again', 
+'Sparks', 
+'https://dl.dropbox.com/s/sib92o2b00dad41/sparks.wav', 
+'https://dl.dropbox.com/s/wto2bhxrrwgl3es/sparks.jpg', '', 
+'#46718b', 
+'Kimono My House (1974)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Brown-Eyed Women', 
+'Grateful Dead', 
+'https://dl.dropbox.com/s/z77hg6gdfl11x7t/browneyed.wav', 
+'https://dl.dropbox.com/s/tz540px48jz3j8b/grateful.jpg', '', 
+'#46718b', 
+'Europe ''72 (1972)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Rattled By The Rush', 
+'Pavement', 
+'https://dl.dropbox.com/s/5nyj38cxpbjygpi/02%20Rattled%20By%20The%20Rush.wav', 
+'https://dl.dropbox.com/s/dnsnwcmf94mswcf/pavement.jpg', '', 
+'#46718b', 
+'Wowee Zowee (1995)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Ballad of the Lonely Argonaut', 
+'Beulah', 
+'https://dl.dropbox.com/s/q185vnn5tbdp3gm/beulah.wav', 
+'https://dl.dropbox.com/s/4zsov51ins0b03l/beulah.jpg', '', 
+'#46718b', 
+'When Your Heartstrings Break (1999)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Only Lonely', 
+'Rose City Band', 
+'https://dl.dropbox.com/s/nnojhnrhuwtsfca/rose%20city.wav', 
+'https://dl.dropbox.com/s/vp0yq495mktct0i/rose%20city.jpg', '', 
+'#46718b', 
+'Summerlong (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Walking Into the Sun', 
+'Lightstorm', 
+'https://dl.dropbox.com/s/7mcqp9ywtq26vyi/lightstorm.wav', 
+'https://dl.dropbox.com/s/ydcsjjiduwzi2mr/lightstorm.jpg', '', 
+'#46718b', 
+'Creation (2018)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Scramble', 
+'Hiromasa Suzuki', 
+'https://dl.dropbox.com/s/gd1nwqjdirri20c/hiromasa.wav', 
+'https://dl.dropbox.com/s/oludmg0f743uvk8/hiromasa.jpg', '', 
+'#46718b', 
+'High-Flying (1976)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Home Is Where the Hatred Is', 
+'Gil Scott-Heron and Brian Jackson', 
+'https://dl.dropbox.com/s/dpr6pd7mqfd9qqw/gilscott.wav', 
+'https://dl.dropbox.com/s/n6xxoz4x0i5x7o5/gil%20scott.jpg', '', 
+'#46718b', 
+'It''s Your World (1976)', null, null, null, null
+);
+
+-- INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+-- 'Never Trust', 
+-- 'DJ Screw', 
+-- 'https://dl.dropbox.com/s/1yzecxn7sb25hty/screwjune27.wav', 
+-- 'https://dl.dropbox.com/s/is6c7pr3j25hkgc/djscrewjune27.jpg', '', 
+-- '#46718b', 
+-- 'June 27, Vol. 2 (2007)', null, null, null, null
+-- );
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Never Trust', 
+'DJ Screw', 
+'https://dl.dropbox.com/s/1yzecxn7sb25hty/screwjune27.wav', 
+'https://dl.dropbox.com/s/is6c7pr3j25hkgc/djscrewjune27.jpg', '', 
+'#46718b', 
+'June 27, Vol. 2 (2007)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Front, Back & Side to Side', 
+'UGK', 
+'https://dl.dropbox.com/s/h524soi40r2c62y/ugk.wav', 
+'https://dl.dropbox.com/s/4n7a3fvw7h165bo/ugk.jpg', '', 
+'#46718b', 
+'Super Tight (1994)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Pinky Ring', 
+'UGK', 
+'https://dl.dropbox.com/s/93d3yo07oteqexg/piinkyraang.wav', 
+'https://dl.dropbox.com/s/7k2cvmaads41ik0/pinkyrang.jpg', '', 
+'#46718b', 
+'Ridin’ Dirty (1996)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Life''s a Bitch', 
+'Nas', 
+'https://dl.dropbox.com/s/62v2ffsl2bd6wz8/nas.wav', 
+'https://dl.dropbox.com/s/wnoecgtuuyvybld/nas.jpg', '', 
+'#46718b', 
+'Illmatic (1994)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Double Cross', 
+'Chip Wickham', 
+'https://dl.dropbox.com/s/0pmlis1mwznkdn6/chip.wav', 
+'https://dl.dropbox.com/s/fqso7v9fo5bw2u2/chip.jpg', '', 
+'#46718b', 
+'Blue to Red (2020)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Get Away', 
+'The Players', 
+'https://dl.dropbox.com/s/msfztnrmq2twedm/players.wav', 
+'https://dl.dropbox.com/s/etq4p3brwdt2pp0/players.jpg', '', 
+'#46718b', 
+'Madagascar Lady (1981)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'How Do Yeaw View You?', 
+'Funkadelic', 
+'https://dl.dropbox.com/s/c7vl9fppt8s089y/funkadelci.wav', 
+'https://dl.dropbox.com/s/51e9bb1hsl28ofm/funkadelic.jpg', '', 
+'#46718b', 
+'Tales of Kidd Funkadelic (1976)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'High', 
+'Tengger', 
+'https://dl.dropbox.com/s/dnv76n9y1lc03p5/tengger.wav', 
+'https://dl.dropbox.com/s/ect0gcuchz4lo3r/tengger.jpg', '', 
+'#46718b', 
+'Spiritual 2 (2019)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (4, 
+'Experience Near', 
+'Ezra Feinberg', 
+'https://dl.dropbox.com/s/050uesqe4ocgsau/ezra.wav', 
+'https://dl.dropbox.com/s/ggxtc2s9hlax760/ezra.jpg', '', 
+'#46718b', 
+'Pentimento and Others (2018)', null, null, null, null
+);
+
+--playlist 5
