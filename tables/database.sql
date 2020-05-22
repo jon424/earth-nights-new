@@ -403,3 +403,89 @@ INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post
 );
 
 --playlist 5 .....
+
+INSERT INTO card (title, date_of_show, teaser, card_image) VALUES ('Earth Nights #5', 'May 15, 2020', 'Some real fine musical selections...', 'https://dl.dropbox.com/s/ssz5jy6r7o66r5g/sikesike.jpg');
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 'Miagetegoran, Yoru No Hoshi Wo', 'Ground Zero', 'https://dl.dropbox.com/s/2jfqm75z6b7mv7j/groundzero.wav', 'https://dl.dropbox.com/s/nao66rmuokc5a43/groundzero.jpg', '', '#46718b', 'Plays Standards (1997)', 'Earth Nights Playlist #5', 'Welcome...', '... Enjoy this week''s selections...', 'Thanks for listening...'
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'I Was Real', 
+'75 Dollar Bill', 
+'https://dl.dropbox.com/s/dw22jj8cz6af544/75.wav', 
+'https://dl.dropbox.com/s/8c6wv1cy32rhmlv/75.jpg', '', 
+'#46718b', 
+'I Was Real (2019)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'Sign Spinners', 
+'Natural Information Society', 
+'https://dl.dropbox.com/s/sgp7xll3zu5ejzy/natural.wav', 
+'https://dl.dropbox.com/s/knebxf96sfoabhf/natural.jpg', '', 
+'#46718b', 
+'Automaginary (2015)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'Age of Energy', 
+'Chicago Underground Duo', 
+'https://dl.dropbox.com/s/6wdhsdp3fg3dd3n/chicago.wav', 
+'https://dl.dropbox.com/s/gk0np8cvzd14kxx/chicago.jpg', '', 
+'#46718b', 
+'Age of Energy (2013)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'Lost My Drivin'' Wheel', 
+'The Byrds', 
+'https://dl.dropbox.com/s/7gltkcnmku0srom/byrds.wav', 
+'https://dl.dropbox.com/s/cbsa9v21ly753sk/byrds.jpg', '', 
+'#46718b', 
+'Farther Along (1971)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'Running Thoughts', 
+'Deerhoof', 
+'https://dl.dropbox.com/s/yoxkaowhhqpft92/03%20Running%20Thoughts.wav', 
+'https://dl.dropbox.com/s/ljkakhufy0p9hrz/deerhoof.jpg', '', 
+'#46718b', 
+'The Runners Four (2005)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'Back to Land', 
+'Wooden Shijps', 
+'https://dl.dropbox.com/s/1w4kv9lidgoa61p/01%20Back%20to%20Land.wav', 
+'https://dl.dropbox.com/s/y2x93v9t25eruk1/wooden.jpg', '', 
+'#46718b', 
+'Back to Land (2013)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'A Peculiar Noise Called ''Train Director''', 
+'The Olivia Tremor Control', 
+'https://dl.dropbox.com/s/a1kqkgf4j0z4i7h/olivia.wav', 
+'https://dl.dropbox.com/s/907s3jekbhfg7in/Olivia_Tremor_Control_-_Black_Foliage.jpg', '', 
+'#46718b', 
+'Black Foliage (1999)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'The Arrow Flies Close', 
+'Elf Power', 
+'https://dl.dropbox.com/s/c0mbar1wuqlymv8/elf.wav', 
+'https://dl.dropbox.com/s/j34gjovjd5tpe6l/elf.jpg', '', 
+'#46718b', 
+'When the Red King Comes (1997)', null, null, null, null
+);
+
+INSERT INTO playlist (episode, name, artist, url, cover, lrc, theme, album, post_title, post_content1, post_content2, post_content3) VALUES (5, 
+'Scarlet Begonias / Fire On the Mountain (Live in Hamilton, Ontario, 5/22/1990)', 
+'Grateful Dead', 
+'https://dl.dropbox.com/s/dso7goe7pw758yp/dead.wav', 
+'https://dl.dropbox.com/s/k5wakdaqoya0c54/dead.jpg', '', 
+'#46718b', 
+'So Many Roads (1965 - 1995) (1999)', null, null, null, null
+);
