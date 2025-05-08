@@ -6,11 +6,15 @@ import './AudioPlayer.css';
 export default class AudioPlayer extends React.Component {
   // event binding example
   onPlay = () => {
-   // console.log('on play');
+    console.log('on play');
   };
 
   onPause = () => {
-   // console.log('on pause');
+    console.log('on pause');
+  };
+
+  onError = (e) => {
+    console.error('Audio player error:', e);
   };
 
   // example of access aplayer instance
@@ -25,7 +29,17 @@ export default class AudioPlayer extends React.Component {
     const props = {
       theme: '#F57F17',
       lrcType: 3,
-      audio: that.props.audio
+      audio: that.props.audio,
+      autoplay: false,
+      preload: 'auto',
+      volume: 0.7,
+      mutex: true,
+      listFolded: false,
+      listMaxHeight: '90px',
+      fixed: false,
+      mini: false,
+      order: 'list',
+      loop: 'all'
     };
    // console.log('props above return', props)
    
@@ -40,6 +54,7 @@ export default class AudioPlayer extends React.Component {
           onInit={this.onInit}
           onPlay={this.onPlay}
           onPause={this.onPause}
+          onError={this.onError}
         />
         : <p>Loading Audio...</p>}
       </div>
